@@ -1,0 +1,2167 @@
+{
+  "intents": [
+    {
+      "intent": "admission",
+      "examples": [
+        {
+          "text": "admission in civil"
+        },
+        {
+          "text": "admission in computer science"
+        },
+        {
+          "text": "admission in electrical and electronics"
+        },
+        {
+          "text": "admission in electronics and communication"
+        },
+        {
+          "text": "admission in information technology"
+        },
+        {
+          "text": "admission in mechanical"
+        },
+        {
+          "text": "Admission procedure"
+        },
+        {
+          "text": "how can i take admission"
+        },
+        {
+          "text": "I want to take admission"
+        },
+        {
+          "text": "i want to take admission in cs branch"
+        },
+        {
+          "text": "i would like to know about admission procedure"
+        },
+        {
+          "text": "tell me about admission procedure"
+        },
+        {
+          "text": "want to take admission"
+        },
+        {
+          "text": "want to take admission in civil"
+        },
+        {
+          "text": "want to take admission in electrical and electronics"
+        },
+        {
+          "text": "want to take admission in electronics and communication"
+        },
+        {
+          "text": "want to take admission in information technology"
+        },
+        {
+          "text": "want to take admission in mechanical"
+        },
+        {
+          "text": "what is the admission procedure"
+        },
+        {
+          "text": "what will be the admission criteria"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "area_of_interest",
+      "examples": [
+        {
+          "text": "Can you help me in selecting the course"
+        },
+        {
+          "text": "Confused between two courses, help me"
+        },
+        {
+          "text": "i am confused"
+        },
+        {
+          "text": "I am confused in courses, would you help me?"
+        },
+        {
+          "text": "i am confused in courses you offer"
+        },
+        {
+          "text": "I am unable to make decision, help me in selecting the course."
+        },
+        {
+          "text": "I am unable to select a course. Please help me."
+        },
+        {
+          "text": "I am unable to select the course"
+        },
+        {
+          "text": "i can tell you my area of interest, would you tell me a course according to that."
+        },
+        {
+          "text": "i have confusion"
+        },
+        {
+          "text": "i have confusion regarding branches"
+        },
+        {
+          "text": "i want to know about a course which suits my area of interest"
+        },
+        {
+          "text": "Please help me choosing a course."
+        },
+        {
+          "text": "Please help me out in selecting the course."
+        },
+        {
+          "text": "Unable to make decision between two courses."
+        },
+        {
+          "text": "Would you help me?"
+        },
+        {
+          "text": "Would you suggest me a course according to my area of interest."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "civil_details",
+      "examples": [
+        {
+          "text": "basic information about civil"
+        },
+        {
+          "text": "basic information about civil branch"
+        },
+        {
+          "text": "basic information about civil engineering"
+        },
+        {
+          "text": "Can you tell me more about civil"
+        },
+        {
+          "text": "Can you tell me more about civil engineering"
+        },
+        {
+          "text": "give me basic idea about civil"
+        },
+        {
+          "text": "give me basic idea about civil branch"
+        },
+        {
+          "text": "give me basic idea about civil engineering"
+        },
+        {
+          "text": "give me general information about civil"
+        },
+        {
+          "text": "tell something about why to choose civil"
+        },
+        {
+          "text": "tell something about why to choose civil engineering"
+        },
+        {
+          "text": "want to know about civil"
+        },
+        {
+          "text": "what are the job opportunities in civil"
+        },
+        {
+          "text": "what is the future of civil"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "courses_list",
+      "examples": [
+        {
+          "text": "available b.tech courses"
+        },
+        {
+          "text": "available courses"
+        },
+        {
+          "text": "Can you provide me the list of all available branches"
+        },
+        {
+          "text": "courses"
+        },
+        {
+          "text": "Give me the list of b.tech branches"
+        },
+        {
+          "text": "Give me the list of b.tech courses"
+        },
+        {
+          "text": "i want to know about branches you offer"
+        },
+        {
+          "text": "I would like to know about all b.tech courses"
+        },
+        {
+          "text": "I would like to know about available branches of b.tech"
+        },
+        {
+          "text": "provide me various programs list"
+        },
+        {
+          "text": "Tell me about all available branches"
+        },
+        {
+          "text": "Tell me about all branches"
+        },
+        {
+          "text": "Tell me about all b.tech courses"
+        },
+        {
+          "text": "Tell me about all courses"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cs_details",
+      "examples": [
+        {
+          "text": "basic information about computer science branch"
+        },
+        {
+          "text": "basic information about cse"
+        },
+        {
+          "text": "Can you tell me more about computer science"
+        },
+        {
+          "text": "Can you tell me more about computer science branch"
+        },
+        {
+          "text": "Can you tell me more about computer science engineering"
+        },
+        {
+          "text": "give me basic idea about computer science engineering"
+        },
+        {
+          "text": "give me basic idea about cse"
+        },
+        {
+          "text": "give me general information about computer science"
+        },
+        {
+          "text": "give me general information about computer science branch"
+        },
+        {
+          "text": "give me general information about cs branch"
+        },
+        {
+          "text": "tell something about why to choose cse"
+        },
+        {
+          "text": "want to know about computer science"
+        },
+        {
+          "text": "want to know about cs"
+        },
+        {
+          "text": "what are the job opportunities in cs branch"
+        },
+        {
+          "text": "what is the future of computer science"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ec_details",
+      "examples": [
+        {
+          "text": "admission in ec engineering"
+        },
+        {
+          "text": "basic information about ec branch"
+        },
+        {
+          "text": "basic information about electronics and communication"
+        },
+        {
+          "text": "Can you tell me more about ec branch"
+        },
+        {
+          "text": "give me basic idea about ec"
+        },
+        {
+          "text": "give me basic idea about ec branch"
+        },
+        {
+          "text": "give me basic idea about electronics and communication engineering"
+        },
+        {
+          "text": "give me general information about ec branch"
+        },
+        {
+          "text": "give me general information about electronics and communication branch"
+        },
+        {
+          "text": "tell something about why to choose ec"
+        },
+        {
+          "text": "tell something about why to choose ec branch"
+        },
+        {
+          "text": "want to know about ec"
+        },
+        {
+          "text": "want to know about electronics and communication"
+        },
+        {
+          "text": "what are the job opportunities in ec branch"
+        },
+        {
+          "text": "what are the job opportunities in electronics and communication branch"
+        },
+        {
+          "text": "what is the future of electronics and communication"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ee_details",
+      "examples": [
+        {
+          "text": "Can you tell me more about ee branch"
+        },
+        {
+          "text": "ee"
+        },
+        {
+          "text": "electrical and electronics"
+        },
+        {
+          "text": "give me basic idea about ee"
+        },
+        {
+          "text": "give me basic idea about ee branch"
+        },
+        {
+          "text": "give me basic idea about electrical and electronics engineering"
+        },
+        {
+          "text": "give me general information about ee branch"
+        },
+        {
+          "text": "give me general information about electrical and electronics branch"
+        },
+        {
+          "text": "I want to know about electrical engineering"
+        },
+        {
+          "text": "tell something about why to choose ee"
+        },
+        {
+          "text": "tell something about why to choose ee branch"
+        },
+        {
+          "text": "want to know about ee"
+        },
+        {
+          "text": "want to know about electrical and electronics"
+        },
+        {
+          "text": "what are the job opportunities in ee branch"
+        },
+        {
+          "text": "what are the job opportunities in electrical and electronics branch"
+        },
+        {
+          "text": "what are the job opportunities in electronics branch"
+        },
+        {
+          "text": "what is the future of electrical and electronics"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "fees",
+      "examples": [
+        {
+          "text": "fees?"
+        },
+        {
+          "text": "i want to know about fees"
+        },
+        {
+          "text": "now tell me fee"
+        },
+        {
+          "text": "tell me the fee now"
+        },
+        {
+          "text": "what is the fees"
+        },
+        {
+          "text": "what's fee?"
+        },
+        {
+          "text": "what's fees?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "greetings",
+      "examples": [
+        {
+          "text": "good afternoon"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hii"
+        },
+        {
+          "text": "hlo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "it_details",
+      "examples": [
+        {
+          "text": "basic information about information technology branch"
+        },
+        {
+          "text": "basic information about it engineering"
+        },
+        {
+          "text": "Can you tell me more about information technology engineering"
+        },
+        {
+          "text": "Can you tell me more about it branch"
+        },
+        {
+          "text": "give me basic idea about information technology engineering"
+        },
+        {
+          "text": "give me basic idea about it"
+        },
+        {
+          "text": "give me basic idea about it branch"
+        },
+        {
+          "text": "give me general information about information technology branch"
+        },
+        {
+          "text": "give me general information about it branch"
+        },
+        {
+          "text": "information technology"
+        },
+        {
+          "text": "it"
+        },
+        {
+          "text": "tell something about why to choose information technology"
+        },
+        {
+          "text": "tell something about why to choose it"
+        },
+        {
+          "text": "tell something about why to choose it branch"
+        },
+        {
+          "text": "want to know about information technology"
+        },
+        {
+          "text": "want to know about it"
+        },
+        {
+          "text": "what are the job opportunities in it branch"
+        },
+        {
+          "text": "what is the future of information technology"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "mechanical_details",
+      "examples": [
+        {
+          "text": "basic information about mechanical"
+        },
+        {
+          "text": "basic information about mechanical branch"
+        },
+        {
+          "text": "basic information about mechanical engineering"
+        },
+        {
+          "text": "Can you tell me more about mechanical"
+        },
+        {
+          "text": "Can you tell me more about mechanical branch"
+        },
+        {
+          "text": "Can you tell me more about mechanical engineering"
+        },
+        {
+          "text": "give me basic idea about mechanical"
+        },
+        {
+          "text": "give me basic idea about mechanical branch"
+        },
+        {
+          "text": "give me basic idea about mechanical engineering"
+        },
+        {
+          "text": "give me general information about mechanical"
+        },
+        {
+          "text": "give me general information about mechanical branch"
+        },
+        {
+          "text": "mechanical"
+        },
+        {
+          "text": "tell something about why to choose mechanical"
+        },
+        {
+          "text": "tell something about why to choose mechanical branch"
+        },
+        {
+          "text": "want to know about mechanical"
+        },
+        {
+          "text": "what are the job opportunities in mechanical branch"
+        },
+        {
+          "text": "what is the future of mechanical"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "admission",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Civil",
+          "synonyms": [
+            "admission in civil",
+            "admission in civil branch",
+            "admission in civil engineering",
+            "admission procedure for civil",
+            "admission procedure for civil branch",
+            "i want to take admission in civil",
+            "procedure for taking admission in civil branch",
+            "want to take admission in civil",
+            "want to take admission in civil branch"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Computer Science",
+          "synonyms": [
+            "Admission in computer science",
+            "admission procedure in computer science",
+            "computer science",
+            "I want to take admission in computer science branch"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Electrical and electronics",
+          "synonyms": [
+            "admission in ee branch",
+            "admission in electrical and electronics branch",
+            "admission procedure for electrical and electronics",
+            "i want to take admission in ee branch",
+            "i want to take admission in ee engineering",
+            "procedure for taking admission in ee branch",
+            "want to take admission in ee branch",
+            "want to take admission in electrical and electronics engineering"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Electronics and communication",
+          "synonyms": [
+            "admission in ec branch",
+            "admission in ec engineering",
+            "admission in electronics and communication branch",
+            "admission procedure for ec branch",
+            "i want to take admission in electronics and communication",
+            "procedure for taking admission in electronics and communication",
+            "want to take admission in ec branch",
+            "want to take admission in electronics and communication branch"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Information Technology",
+          "synonyms": [
+            "Admission in information technology",
+            "admission in IT",
+            "admission in it branch",
+            "IT",
+            "I want to take admission in Information Technology branch",
+            "want to take admission in IT"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mechanical",
+          "synonyms": [
+            "admission in mechanical",
+            "admission in mechanical engineering",
+            "admission procedure for mechanical branch",
+            "i want to take admission in mechanical branch",
+            "procedure for taking admission in mechanical engineering",
+            "want to take admission in mechanical branch"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Nope",
+          "synonyms": [
+            "nah",
+            "no",
+            "nooo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Yeah",
+          "synonyms": [
+            "yes",
+            "yo",
+            "yup"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "confirmation",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "na",
+            "nah",
+            "no",
+            "nop",
+            "nope"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Yes",
+          "synonyms": [
+            "ya",
+            "yeah",
+            "yes",
+            "yo",
+            "yup"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "user_details",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "email",
+          "synonyms": [
+            "@",
+            "\\b[A-Za-z0-9._%+-]+@([A-Za-z0-9-]+\\.)+[A-Za-z]{2,}\\b",
+            "@gmail.com",
+            "{word}+@+{word}+.com",
+            "{word}+@+{word}+.edu.in",
+            "{word}+@+{word}+.gov.in",
+            "{word}+@+{word}+.in",
+            "@yahoo.com"
+          ]
+        },
+        {
+          "type": "patterns",
+          "value": "phone number",
+          "patterns": [
+            "(\\d{10})",
+            "0(\\d{10})",
+            "91-(\\d{10})"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_8_1628755958412",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1628856888905",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1628856888905",
+      "previous_sibling": "handler_9_1628856888905"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1628756053592",
+      "context": {
+        "phone_number": "@user_details:(phone number)"
+      },
+      "conditions": "@user_details:(phone number)",
+      "event_name": "input",
+      "dialog_node": "handler_1_1628756053599"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_15_1628858124810",
+      "context": {
+        "phone_number": "@user_details:(phone number)"
+      },
+      "conditions": "@user_details:(phone number)",
+      "event_name": "input",
+      "dialog_node": "handler_16_1628858124810"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_15_1628858124810",
+      "event_name": "focus",
+      "dialog_node": "handler_17_1628858124810",
+      "previous_sibling": "handler_16_1628858124810"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_18_1628858124810",
+      "context": {
+        "email": "@user_details:email"
+      },
+      "conditions": "@user_details:email",
+      "event_name": "input",
+      "dialog_node": "handler_19_1628858124810"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_18_1628858124810",
+      "event_name": "focus",
+      "dialog_node": "handler_20_1628858124810",
+      "previous_sibling": "handler_19_1628858124810"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1628756121810",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1628756121811",
+      "previous_sibling": "handler_7_1628756121811"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1628756053592",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1628756053599",
+      "previous_sibling": "handler_1_1628756053599"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1628856888905",
+      "context": {
+        "phone_number": "@user_details:(phone number)"
+      },
+      "conditions": "@user_details:(phone number)",
+      "event_name": "input",
+      "dialog_node": "handler_6_1628856888905"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1628756121810",
+      "context": {
+        "email": "@user_details:email"
+      },
+      "conditions": "@user_details:email",
+      "event_name": "input",
+      "dialog_node": "handler_7_1628756121811"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1628856888905",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1628856888905",
+      "previous_sibling": "handler_6_1628856888905"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1628856888905",
+      "context": {
+        "email": "@user_details:email"
+      },
+      "conditions": "@user_details:email",
+      "event_name": "input",
+      "dialog_node": "handler_9_1628856888905"
+    },
+    {
+      "type": "frame",
+      "title": "Admission User details  ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please confirm your phone number $phone_number and email id $email."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yeah",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "Nope",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1628857178011",
+      "conditions": "@user_details:(phone number) && @user_details:email",
+      "dialog_node": "node_11_1628858124807"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Re-enter your details..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1628755958412",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1628755958412"
+      },
+      "conditions": "@confirmation:No",
+      "dialog_node": "node_1_1628756827902",
+      "previous_sibling": "node_5_1628756745213"
+    },
+    {
+      "type": "frame",
+      "title": "Admission User details ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please confirm your phone number $phone_number and email id $email."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yeah",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "Nope",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_6_1628852766619",
+      "conditions": "@user_details:(phone number) && @user_details:email",
+      "dialog_node": "node_1_1628856888904"
+    },
+    {
+      "type": "standard",
+      "title": "Yeah",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, Thank You!  Good Bye..👋 "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_11_1628858124807",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "@admission:Yeah",
+      "dialog_node": "node_12_1628858124810"
+    },
+    {
+      "type": "standard",
+      "title": "Nope",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Re-enter your details..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_11_1628858124807",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_11_1628858124807"
+      },
+      "conditions": "@admission:Nope",
+      "dialog_node": "node_14_1628858124810",
+      "previous_sibling": "node_12_1628858124810"
+    },
+    {
+      "type": "standard",
+      "title": "civil",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Civil engineering is everything you see that’s been built around us. It’s about roads and railways, schools, offices, hospitals, water and power supply and much more."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://www.build-review.com/wp-content/uploads/2021/03/Civil-engineers.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#civil_details",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1628349830221",
+      "previous_sibling": "node_9_1628349783816"
+    },
+    {
+      "type": "standard",
+      "title": "Yeah",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, Thank You!  Good Bye..👋 "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1628856888904",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "@admission:Yeah",
+      "dialog_node": "node_2_1628856888905"
+    },
+    {
+      "type": "standard",
+      "title": "greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello there! 👋 Nice to see you. Hope you are safe."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": " I am EduTech Bot, the B.Tech course advisor. Want to know more? Let me know how can I help you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#greetings",
+      "dialog_node": "node_3_1628865138576",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Nope",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Re-enter your details..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1628856888904",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1628856888904"
+      },
+      "conditions": "@admission:Nope",
+      "dialog_node": "node_4_1628856888905",
+      "previous_sibling": "node_2_1628856888905"
+    },
+    {
+      "type": "standard",
+      "title": "fees",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "1. Fee Structure                                                                                                                                                 \n     i) If you opt for plain B.Tech, fees will be Rs. 35000/- per sem.                                                      \n     ii) If you opt for any specialization with B.Tech, fees will be Rs. 50000/- per sem.                   \n     iii) If you opt for B.Tech + M.Tech integration, fees will be Rs. 45000/- per sem."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "2. About Uniform                                                                                                                                              \n     It is necessary for all the students to wear the college uniforms every Monday. Rest all days \n     students can wear casuals."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "3. Working Days                                                                                                                                           \n     Every Monday to Friday."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Want to take admission? Provide your contact number and email id."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#fees",
+      "dialog_node": "node_4_1628857178011",
+      "previous_sibling": "node_9_1628850949489"
+    },
+    {
+      "type": "standard",
+      "title": "courses list",
+      "output": {
+        "generic": [
+          {
+            "title": "Available B.tech courses are-",
+            "options": [
+              {
+                "label": "Computer Science",
+                "value": {
+                  "input": {
+                    "text": "I want to know about computer science engineering"
+                  }
+                }
+              },
+              {
+                "label": "Information Technology",
+                "value": {
+                  "input": {
+                    "text": "I want to know about information technology"
+                  }
+                }
+              },
+              {
+                "label": "Civil",
+                "value": {
+                  "input": {
+                    "text": "I want to know about civil engineering"
+                  }
+                }
+              },
+              {
+                "label": "Mechanical",
+                "value": {
+                  "input": {
+                    "text": "I want to know about mechanical engineering"
+                  }
+                }
+              },
+              {
+                "label": "Electrical and Electronics",
+                "value": {
+                  "input": {
+                    "text": "I want to know about electrical engineering"
+                  }
+                }
+              },
+              {
+                "label": "Electronics and Communication",
+                "value": {
+                  "input": {
+                    "text": "I want to know about electronis and communication engineering"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Please enter below your preferred branch."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#courses_list",
+      "dialog_node": "node_5_1628338190382",
+      "previous_sibling": "node_3_1628865138576"
+    },
+    {
+      "type": "standard",
+      "title": "area_of_interest",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Don't Worry! We are here to help you. 🤝 \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "We have highly qualified counselors to help you pick the right program based on your interest and profile!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Let us know your mobile number for our counselor to reach you. ☎️ "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "And your email id."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#area_of_interest",
+      "dialog_node": "node_5_1628339563541",
+      "previous_sibling": "node_4_1628857178011"
+    },
+    {
+      "type": "standard",
+      "title": "computer science",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Computer Science is the study of computers and computational systems. Common areas of study within CS include artificial intelligence, security, database systems, vision and graphics, programming languages, software engineering. The future in CS is promising. Choosing a career in this field will open the doors to many job opportunities like Web Developer, Cyber Security, Database Administrator, Software Developer, and many more."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://image.shutterstock.com/image-illustration/line-web-concept-computer-science-600w-525822841.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#cs_details",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1628348567122",
+      "previous_sibling": "node_5_1628338190382"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hang on! Our counselor will connect with you in a bit..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1628755958412",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "@confirmation:Yes",
+      "dialog_node": "node_5_1628756745213"
+    },
+    {
+      "type": "standard",
+      "title": "information technology",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The study or use of systems (especially computers and telecommunications) for storing, retrieving, and sending information. After completing B-Tech in IT, students can seek jobs at almost all the major Multinational Corporations (MNCs) like IBM, Microsoft, Cisco, etc. Some of the job profiles are Computer Programmer, Web developer, Software Analyst, Software engineer, Information security analyst."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAk1Vl4-pD-ZchDtDlurMafqzK2JJjOsNbqMDOaauZjmIHhzChKCvUDpGlFegFO6sJ6xA&usqp=CAU",
+            "response_type": "image"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#it_details",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1628349384879",
+      "previous_sibling": "node_5_1628348567122"
+    },
+    {
+      "type": "standard",
+      "title": "specific_branch_admission",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@admission",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1628852766619",
+      "previous_sibling": "node_7_1628349845792"
+    },
+    {
+      "type": "standard",
+      "title": "electronics and communication",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All of the applications which make our life easier and enjoyable such as Television, Radio, Computers, Mobiles etc. are designed and developed by Electronics and Communication Engineers."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://after12thwhat.com/wp-content/uploads/2015/12/Electronics-and-Communication-Engineering-1.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#ec_details",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1628349845792",
+      "previous_sibling": "node_9_1628349841837"
+    },
+    {
+      "type": "frame",
+      "title": "User details",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please confirm your phone number $phone_number and email id $email."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "@user_details:(phone number) && @user_details:email",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1628755958412",
+      "previous_sibling": "node_5_1628339563541"
+    },
+    {
+      "type": "standard",
+      "title": "mechanical",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Mechanical engineers design, develop, build, and test. They deal with anything that moves, from components to machines to the human body. mechanical engineering careers center on creating technologies to meet human needs."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://inteng-storage.s3.amazonaws.com/img/iea/zDOZE552wk/sizes/mechanical-engineering_md.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#mechanical_details",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1628349783816",
+      "previous_sibling": "node_6_1628349384879"
+    },
+    {
+      "type": "standard",
+      "title": "electrical and electronics",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Electrical and electronics engineering, the branch of engineering concerned with the practical applications of electricity in all its forms, including those of the field of electronics. Electronics engineering is that branch of electrical engineering concerned with the uses of the electromagnetic spectrum and with the application of such electronic devices as integrated circuits and transistors."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://www.stoodnt.com/blog/wp-content/uploads/2020/06/electrical-electronics-engineering-top-ms-specializations-jobs-salaries.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#ee_details",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1628349841837",
+      "previous_sibling": "node_2_1628349830221"
+    },
+    {
+      "type": "standard",
+      "title": "admission",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1628338190382"
+      },
+      "conditions": "#admission",
+      "dialog_node": "node_9_1628850949489",
+      "previous_sibling": "node_6_1628852766619"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are offering various specialization in Computer Science in collaboration with many companies. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "B.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech with Cloud Computing",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech with Artificial Intelligence",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech with Big Data Analytics",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech + M.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "If you want to know more about any of the options just click on that. \nOtherwise, enter the option that you want and also provide your contact number and email id."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1628852766619",
+      "conditions": "@admission:(Computer Science)",
+      "dialog_node": "response_1_1628852799142",
+      "previous_sibling": "node_1_1628856888904"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hang on! Our counselor will connect with you in a bit..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1628756745213",
+      "disabled": true,
+      "conditions": "@confirmation:Yes",
+      "dialog_node": "response_1_1628854274109"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hang on! Our counselor will connect with you in a bit..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_12_1628858124810",
+      "disabled": true,
+      "conditions": "@confirmation:Yes",
+      "dialog_node": "response_13_1628858124810"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hang on! Our counselor will connect with you in a bit..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1628856888905",
+      "disabled": true,
+      "conditions": "@confirmation:Yes",
+      "dialog_node": "response_3_1628856888905"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All of the applications which make our life easier and enjoyable such as Television, Radio, Computers, Mobiles etc. are designed and developed by Electronics and Communication Engineers."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://after12thwhat.com/wp-content/uploads/2015/12/Electronics-and-Communication-Engineering-1.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_7_1628349845792",
+      "disabled": true,
+      "conditions": "#ec_details",
+      "dialog_node": "response_5_1628767609047"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Mechanical engineers design, develop, build, and test. They deal with anything that moves, from components to machines to the human body. mechanical engineering careers center on creating technologies to meet human needs."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://inteng-storage.s3.amazonaws.com/img/iea/zDOZE552wk/sizes/mechanical-engineering_md.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_9_1628349783816",
+      "disabled": true,
+      "conditions": "#mechanical_details",
+      "dialog_node": "response_5_1628768118334"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "B.Tech ",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech with IOT",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech + M.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "If you want to know more about any of the options just click on that. \nOtherwise, enter any of the above options and also provide your contact number and email id."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1628852766619",
+      "conditions": "@admission:(Electrical and electronics)",
+      "dialog_node": "response_5_1628853751528",
+      "previous_sibling": "response_9_1628853724875"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Electrical and electronics engineering, the branch of engineering concerned with the practical applications of electricity in all its forms, including those of the field of electronics. Electronics engineering is that branch of electrical engineering concerned with the uses of the electromagnetic spectrum and with the application of such electronic devices as integrated circuits and transistors."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://www.stoodnt.com/blog/wp-content/uploads/2020/06/electrical-electronics-engineering-top-ms-specializations-jobs-salaries.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_9_1628349841837",
+      "disabled": true,
+      "conditions": "#ee_details",
+      "dialog_node": "response_7_1628768193782"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "B.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech + M.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "If you want to know more about any of the options just click on that. \nOtherwise, enter any of the above options and also provide your contact number and email id."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1628852766619",
+      "conditions": "@admission:Mechanical",
+      "dialog_node": "response_7_1628853761666",
+      "previous_sibling": "response_5_1628853751528"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Computer Science is the study of computers and computational systems. Common areas of study within CS include artificial intelligence, security, database systems, vision and graphics, programming languages, software engineering. The future in CS is promising. Choosing a career in this field will open the doors to many job opportunities like Web Developer, Cyber Security, Database Administrator, Software Developer, and many more."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://image.shutterstock.com/image-illustration/line-web-concept-computer-science-600w-525822841.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_5_1628348567122",
+      "disabled": true,
+      "conditions": "#cs_details",
+      "dialog_node": "response_8_1628763550078"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Civil engineering is everything you see that’s been built around us. It’s about roads and railways, schools, offices, hospitals, water and power supply and much more."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://www.build-review.com/wp-content/uploads/2021/03/Civil-engineers.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_2_1628349830221",
+      "disabled": true,
+      "conditions": "#civil_details",
+      "dialog_node": "response_8_1628768153512"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "B.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech with cyber security",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech + M.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "If you want to know more about any of the options just click on that. \nOtherwise, enter any of the above options and also provide your contact number and email id."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1628852766619",
+      "conditions": "@admission:(Information Technology)",
+      "dialog_node": "response_8_1628853702837",
+      "previous_sibling": "response_1_1628852799142"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The study or use of systems (especially computers and telecommunications) for storing, retrieving, and sending information. After completing B-Tech in IT, students can seek jobs at almost all the major Multinational Corporations (MNCs) like IBM, Microsoft, Cisco, etc. Some of the job profiles are Computer Programmer, Web developer, Software Analyst, Software engineer, Information security analyst."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAk1Vl4-pD-ZchDtDlurMafqzK2JJjOsNbqMDOaauZjmIHhzChKCvUDpGlFegFO6sJ6xA&usqp=CAU",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_6_1628349384879",
+      "disabled": true,
+      "conditions": "#it_details",
+      "dialog_node": "response_9_1628765430886"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "B.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech + M.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "If you want to know more about any of the options just click on that. \nOtherwise, enter any of the above options and also provide your contact number and email id."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1628852766619",
+      "conditions": "@admission:Civil",
+      "dialog_node": "response_9_1628853713199",
+      "previous_sibling": "response_8_1628853702837"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "B.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech with IOT",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              },
+              {
+                "label": "B.Tech + M.Tech",
+                "value": {
+                  "input": {
+                    "text": "i want to know about fees"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "If you want to know more about any of the options just click on that. \nOtherwise, enter any of the above options and also provide your contact number and email id."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1628852766619",
+      "conditions": "@admission:(Electronics and communication)",
+      "dialog_node": "response_9_1628853724875",
+      "previous_sibling": "response_9_1628853713199"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_11_1628858124807",
+      "variable": "$phone_number",
+      "dialog_node": "slot_15_1628858124810",
+      "previous_sibling": "node_14_1628858124810"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_11_1628858124807",
+      "variable": "$email",
+      "dialog_node": "slot_18_1628858124810",
+      "previous_sibling": "slot_15_1628858124810"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1628856888904",
+      "variable": "$phone_number",
+      "dialog_node": "slot_5_1628856888905",
+      "previous_sibling": "node_4_1628856888905"
+    },
+    {
+      "type": "slot",
+      "parent": "node_8_1628755958412",
+      "variable": "$email",
+      "dialog_node": "slot_6_1628756121810",
+      "previous_sibling": "slot_9_1628756053592"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1628856888904",
+      "variable": "$email",
+      "dialog_node": "slot_8_1628856888905",
+      "previous_sibling": "slot_5_1628856888905"
+    },
+    {
+      "type": "slot",
+      "parent": "node_8_1628755958412",
+      "variable": "$phone_number",
+      "dialog_node": "slot_9_1628756053592",
+      "previous_sibling": "node_1_1628756827902"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello there! 👋 Nice to see you. Hope you are safe."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": " I am EduTech Bot, the B.Tech course advisor. Want to know more? Let me know how can I help you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Tech branch Advisor",
+  "language": "en",
+  "description": ""
+}
